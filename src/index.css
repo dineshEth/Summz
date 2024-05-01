@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 .text-gradient{
     background: -webkit-linear-gradient(0deg, #dc8614, #e7c880);
@@ -15,3 +16,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   };
+
+  .Inter-font{
+    font-family:  "Inter", sans-serif;;
+  }
