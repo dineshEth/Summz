@@ -7,7 +7,7 @@ export default {
   theme: {
     fontFamily: {
       'scode': ['Source Code Pro', 'monospace'],
-      'Inter' : ["Inter"]
+      'Inter': ['Inter', 'monospace']
     },
     extend: {},
     
