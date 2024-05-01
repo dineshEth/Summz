@@ -6,8 +6,9 @@ export default {
   ],
   theme: {
     fontFamily: {
-      'scode': ['Source Code Pro', 'monospace'],
-      'Inter': ['Inter', 'monospace']
+      'scode' : ['Source Code Pro', 'monospace'],
+      'inter' : ['Inter', 'sans-serif'],
+      'poppins' : ['poppins'],
     },
     extend: {},
     
